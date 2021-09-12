@@ -1,0 +1,104 @@
+.parent {
+    border: 3px solid red;
+    background-color: rgba(219, 219, 219, 0.959);
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+}
+
+.header {
+    border: 3px solid orange;
+    padding: 10px;
+    margin: 10px;
+    display: flex;
+}
+
+.categories {
+    border: 3px solid orange;
+    padding: 10px;
+    margin: 10px;
+    display:flex;
+    flex-direction: row;
+}
+
+.icon {
+    border: 3px solid green;
+    padding: 10px;
+    margin: 10px;
+    flex: 1;
+}
+
+.information {
+    border: 3px solid green;
+    padding: 10px;
+    margin: 10px;
+    flex: 2;
+}
+
+.pic{
+    border: 3px solid green;
+    padding: 10px;
+    margin: 10px;
+    flex: 1;
+} 
+.pic2{
+    border: 3px solid green;
+    padding: 10px;
+    margin: 10px;
+    flex: 1; 
+}
+.pic3{
+    border: 3px solid green;
+    padding: 10px;
+    margin: 10px;
+    flex: 1; 
+}
+.pic4{
+    border: 3px solid green;
+    padding: 10px;
+    margin: 10px;
+    flex: 1; 
+}
+.pic5{
+    border: 3px solid green;
+    padding: 10px;
+    margin: 10px;
+    flex: 1; 
+}
+.pic6{
+    border: 3px solid green;
+    padding: 10px;
+    margin: 10px;
+    flex: 1; 
+}
+.pic7{
+    border: 3px solid green;
+    padding: 10px;
+    margin: 10px;
+    flex: 1; 
+}
+.insta{
+    border: 3px solid green;
+    padding: 10px;
+    margin: 10px;
+    flex: 1; 
+    flex-direction: column;
+    justify-content: center; 
+}
+.graphics{
+    border: 3px solid green;
+    padding: 10px;
+    margin: 10px;
+    flex: 1;
+}
+.letters{
+    border: 3px solid green;
+    padding: 10px;
+    margin: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    flex: 1;
+}
+#check{
+    display:flex;
+    
+}
